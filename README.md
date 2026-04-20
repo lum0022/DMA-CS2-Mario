@@ -1,5 +1,5 @@
 # DMA-CS2-Mario
-Permanent free use，The game update will automatically scan for the offset of A2X. If there is no update, you can also update it yourself by downloading the latest version from https://github.com/a2x/cs2-dumper and placing it in the EXE directory
+Permanent free use，The game update will automatically scan for the offset of A2X. If there is no update, you can also update it yourself by downloading the latest version from https://github.com/a2x/cs2-dumper and placing it in the EXE directory.
 F7 Refresh    F8 Hide    Please plug the mouse into the box and run it
 
 
